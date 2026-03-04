@@ -1,5 +1,3 @@
-# Miguel González — Backend Developer
-
 Desarrollador backend con experiencia profesional en entorno eCommerce, y actualmente estoy formándome en **42 Málaga (Fundación Telefónica)**, donde refuerzo fundamentos de programación, arquitectura, buenas prácticas y trabajo colaborativo.
 
 ---
