@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # Miguel (Miguelgm1693) — Backend Developer
 
