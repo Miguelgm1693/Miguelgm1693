@@ -26,7 +26,7 @@ Desarrollador backend con experiencia profesional en entorno eCommerce, y actual
 - APIs (REST), lógica de negocio, integraciones y servicios
 - Arquitecturas orientadas a escalabilidad y mantenibilidad
 
-### Lenguajes (según proyectos)
+### Lenguajes
 - C
 - Python
 - Java
