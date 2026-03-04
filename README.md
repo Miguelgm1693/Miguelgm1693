@@ -1,16 +1,64 @@
 ## Hi there 👋
 
-<!--
-**Miguelgm1693/Miguelgm1693** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Miguel (Miguelgm1693) — Backend Developer
 
-Here are some ideas to get you started:
+Me llamo **Miguel**. Soy desarrollador backend con experiencia profesional en entorno eCommerce, y actualmente estoy formándome en **42 Málaga (Fundación Telefónica)**, donde refuerzo fundamentos de programación, arquitectura, buenas prácticas y trabajo colaborativo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre mí
+
+- **Backend Developer** con **3 años** de experiencia como *Desarrollador Junior HCL Commerce*
+- Enfoque: construir software **mantenible**, **robusto** y con **buen rendimiento**
+- Actualmente: estudiante en **42 Málaga** (aprendizaje intensivo, proyectos prácticos, peer-to-peer)
+
+---
+
+## Lo que estoy construyendo ahora
+
+- Proyectos de 42: algoritmia, C, Python, sistemas, networking y bases sólidas de ingeniería
+- Repos personales: prácticas, utilidades y pequeños productos para seguir creciendo
+- Mejora continua: refactor, testing, clean code, y automatización
+
+---
+
+## Tech & herramientas
+
+### Backend
+- APIs (REST), lógica de negocio, integraciones y servicios
+- Arquitecturas orientadas a escalabilidad y mantenibilidad
+
+### Lenguajes (según proyectos)
+- C
+- Python
+- Java
+- SQL
+
+### Tools
+- Git / GitHub
+- Linux
+- Postman
+- Docker
+
+---
+
+## Actividad y movimiento (stats)
+
+<!-- Stats generales -->
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Miguelgm1693&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats de Miguelgm1693" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelgm1693&layout=compact&theme=tokyonight&hide_border=true" alt="Top langs de Miguelgm1693" />
+</p>
+
+<!-- Streak -->
+<p align="left">
+  <img height="165" src="https://streak-stats.demolab.com?user=Miguelgm1693&theme=tokyonight&hide_border=true" alt="GitHub streak de Miguelgm1693" />
+</p>
+
+---
+
+## Contacto
+
+- GitHub: **@Miguelgm1693**
+- Email: **gonzalezmoramiguel@gmail.com**
+  
