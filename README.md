@@ -1,8 +1,6 @@
-
-
 # Miguel (Miguelgm1693) — Backend Developer
 
-Me llamo **Miguel**. Soy desarrollador backend con experiencia profesional en entorno eCommerce, y actualmente estoy formándome en **42 Málaga (Fundación Telefónica)**, donde refuerzo fundamentos de programación, arquitectura, buenas prácticas y trabajo colaborativo.
+Desarrollador backend con experiencia profesional en entorno eCommerce, y actualmente estoy formándome en **42 Málaga (Fundación Telefónica)**, donde refuerzo fundamentos de programación, arquitectura, buenas prácticas y trabajo colaborativo.
 
 ---
 
@@ -42,14 +40,7 @@ Me llamo **Miguel**. Soy desarrollador backend con experiencia profesional en en
 
 ---
 
-## Actividad y movimiento (stats)
-
-<!-- Stats generales -->
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Miguelgm1693&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats de Miguelgm1693" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelgm1693&layout=compact&theme=tokyonight&hide_border=true" alt="Top langs de Miguelgm1693" />
-</p>
-
+## Actividad 
 <!-- Streak -->
 <p align="left">
   <img height="165" src="https://streak-stats.demolab.com?user=Miguelgm1693&theme=tokyonight&hide_border=true" alt="GitHub streak de Miguelgm1693" />
