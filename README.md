@@ -50,6 +50,6 @@ Desarrollador backend con experiencia profesional en entorno eCommerce, y actual
 
 ## Contacto
 
-- GitHub: **@Miguelgm1693**
+- GitHub: **Miguelgm1693**
 - Email: **gonzalezmoramiguel@gmail.com**
   
